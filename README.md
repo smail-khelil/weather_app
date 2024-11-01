@@ -1,3 +1,3 @@
 # weather_app
 
-![Screenshot_1730026193](https://github.com/user-attachments/assets/d57dd55c-b140-4ac4-bf19-45328111e314)
+![rsz_screenshot_1730026193](https://github.com/user-attachments/assets/8b667793-9db9-4f99-ba83-6052bd69f5ad)
